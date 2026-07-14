@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:1158c7&section=header" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Gabriel+Lucas+Barbosa+%F0%9F%A4%93;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFPR;Construindo+uma+CPU+de+8+bits;Inicia%C3%A7%C3%A3o+Cient%C3%ADfica+em+XAI" alt="header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Gabriel+Lucas+Barbosa+%F0%9F%A4%93;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFPR" alt="header" />
 
 ---
 
