@@ -16,7 +16,7 @@ Estudante de Ciência da Computação na UFPR, atualmente em iniciação cientí
 
 ## no momento
 
-Aprendendo arquitetura de computadores na prática: CPU de 8 bits, porta lógica por porta lógica, saindo do Logisim pra protoboard.
+Aprendendo arquitetura de computadores na prática: uma CPU de 8 bits, porta lógica por porta lógica, saindo do Logisim pra protoboard.
 
 ---
 
@@ -40,15 +40,11 @@ Fui monitor de Fundamentos de Programação (CI182/CI240) e mantenho o material 
 
 ---
 
-## stats
+## atividade
 
 <a href="https://github.com/gabriellucb">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellucb&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="top langs" />
+  <img src="https://raw.githubusercontent.com/gabriellucb/gabriellucb/output/github-contribution-grid-snake.svg" width="100%" alt="snake de contribuições" />
 </a>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/gabriellucb/gabriellucb/output/github-contribution-grid-snake.svg" width="100%" alt="snake de contribuições" />
 
 ---
 
