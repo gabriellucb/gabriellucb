@@ -1,66 +1,90 @@
+<!--
+   contributors: gabriel (código) & max (suporte moral)
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:1158c7&section=header" alt="banner" />
+<!-- ===== BANNER ===== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Gabriel+Lucas+Barbosa+%F0%9F%A4%93;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFPR" alt="header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1158c7&text=Gabriel%20Lucas%20Barbosa&fontColor=58A6FF&fontSize=34&fontAlignY=36&animation=fadeIn&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1158c7,100:79c0ff&text=Gabriel%20Lucas%20Barbosa&fontColor=ffffff&fontSize=34&fontAlignY=36&animation=fadeIn&section=header" alt="banner com onda em gradiente azul e o nome Gabriel Lucas Barbosa" />
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFPR;inicia%C3%A7%C3%A3o+cient%C3%ADfica+em+IA+explic%C3%A1vel+(XAI)" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1800&color=1158C7&center=true&vCenter=true&width=600&height=45&lines=estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFPR;inicia%C3%A7%C3%A3o+cient%C3%ADfica+em+IA+explic%C3%A1vel+(XAI)" alt="texto animado alternando: estudante de Ciência da Computação na UFPR, iniciação científica em IA explicável (XAI)" />
+</picture>
+
+<!-- ===== SOBRE MIM ===== -->
 
 ## sobre mim
 
 Estudante de Ciência da Computação na UFPR, atualmente em iniciação científica sobre IA explicável (XAI).
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d1117,50:58A6FF,100:0d1117" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ffffff,50:1158c7,100:ffffff" alt="divisor" />
+</picture>
 
-**Interesses:** `Sistemas` &nbsp; `Arquitetura de Computadores` &nbsp; `Embarcados` &nbsp; `Eletrônica` &nbsp; `IA`
-
----
+<!-- ===== NO MOMENTO ===== -->
 
 ## no momento
 
 Aprendendo arquitetura de computadores na prática: uma CPU de 8 bits, porta lógica por porta lógica, saindo do Logisim pra protoboard.
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d1117,50:58A6FF,100:0d1117" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ffffff,50:1158c7,100:ffffff" alt="divisor" />
+</picture>
+
+<!-- ===== ENSINO ===== -->
 
 ## ensino
 
 Fui monitor de Fundamentos de Programação (CI182/CI240) e mantenho o material que produzi na função: aulas, exemplos comentados e exercícios de debug, tudo em português.
 
-<a href="https://github.com/gabriellucb/ci182-fundamentos-de-programacao-UFPR"><img src="https://img.shields.io/badge/material%20de%20aula-CI182%2FCI240-58A6FF?style=flat-square&logo=bookstack&logoColor=white&labelColor=0d1117" alt="material CI182/CI240" /></a>
+<a href="https://github.com/gabriellucb/ci182-fundamentos-de-programacao-UFPR"><img src="https://img.shields.io/badge/material%20de%20aula-CI182%2FCI240-58A6FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="badge com link para o material de aula de CI182/CI240" /></a>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d1117,50:58A6FF,100:0d1117" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ffffff,50:1158c7,100:ffffff" alt="divisor" />
+</picture>
 
-## ferramentas
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38" height="38" alt="C" title="C" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="38" height="38" alt="Bash" title="Bash" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="38" height="38" alt="Vim" title="Vim" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="38" height="38" alt="Arduino" title="Arduino" />
-
----
+<!-- ===== ATIVIDADE ===== -->
 
 ## atividade
 
 <a href="https://github.com/gabriellucb">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellucb/gabriellucb/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/gabriellucb/gabriellucb/output/github-contribution-grid-snake.svg" width="100%" alt="snake de contribuições" />
+    <img src="https://raw.githubusercontent.com/gabriellucb/gabriellucb/output/github-contribution-grid-snake.svg" width="100%" loading="lazy" alt="animação da cobrinha comendo as contribuições do GitHub" />
   </picture>
 </a>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0d1117,50:58A6FF,100:0d1117" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ffffff,50:1158c7,100:ffffff" alt="divisor" />
+</picture>
 
-## contato
+<!-- ===== ONDE ME ENCONTRAR ===== -->
 
-<a href="mailto:gabriellucb26@gmail.com"><img src="https://img.shields.io/badge/email-58A6FF?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="email" /></a>&nbsp;
-<a href="https://linkedin.com/in/gabriellucb"><img src="https://img.shields.io/badge/linkedin-58A6FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" /></a>&nbsp;
-<a href="https://github.com/gabriellucb"><img src="https://img.shields.io/badge/github-58A6FF?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="github" /></a>
+## onde me encontrar
 
-<br>
+<a href="https://gabriellb.com.br"><img src="https://img.shields.io/badge/site-58A6FF?style=for-the-badge&labelColor=0d1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0IiByeT0iOSIvPjxwYXRoIGQ9Ik0zLjUgOWgxN00zLjUgMTVoMTciLz48L3N2Zz4%3D" alt="badge do site gabriellb.com.br" /></a>&nbsp;
+<a href="mailto:gabriellucb26@gmail.com"><img src="https://img.shields.io/badge/email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="badge de e-mail" /></a>&nbsp;
+<a href="https://linkedin.com/in/gabriellucb"><img src="https://img.shields.io/badge/linkedin-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="badge do LinkedIn" /></a>&nbsp;
+<a href="https://github.com/gabriellucb"><img src="https://img.shields.io/badge/github-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="badge do GitHub" /></a>&nbsp;
+<a href="https://instagram.com/gabslb._"><img src="https://img.shields.io/badge/instagram-58A6FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="badge do Instagram" /></a>&nbsp;
+<a href="https://github.com/gabriellucb/max"><img src="https://img.shields.io/badge/max-58A6FF?style=for-the-badge&labelColor=0d1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxlbGxpcHNlIGN4PSI1IiBjeT0iMTAiIHJ4PSIyIiByeT0iMi43Ii8%2BPGVsbGlwc2UgY3g9IjkuNyIgY3k9IjYuNSIgcng9IjIuMSIgcnk9IjIuOSIvPjxlbGxpcHNlIGN4PSIxNC45IiBjeT0iNi41IiByeD0iMi4xIiByeT0iMi45Ii8%2BPGVsbGlwc2UgY3g9IjE5LjQiIGN5PSIxMCIgcng9IjIiIHJ5PSIyLjciLz48cGF0aCBkPSJNMTIuMyAxMS4yYy0zLjIgMC02LjIgMi44LTYuMiA1LjcgMCAxLjkgMS41IDMuMyAzLjQgMy4zIDEgMCAxLjktLjUgMi44LS41czEuOC41IDIuOC41YzEuOSAwIDMuNC0xLjQgMy40LTMuMyAwLTIuOS0zLTUuNy02LjItNS43eiIvPjwvc3ZnPg%3D%3D" alt="badge do Max" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1158c7,100:0d1117&section=footer" alt="banner" />
+<!-- ===== FOOTER ===== -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1158c7,100:0d1117&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:79c0ff,100:1158c7&section=footer" loading="lazy" alt="banner de rodapé com onda em gradiente azul" />
+</picture>
 
 </div>
+
+<!-- feito no vs, revisado pelo max -->
