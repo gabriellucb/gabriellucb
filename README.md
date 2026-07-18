@@ -6,14 +6,11 @@
 
 <!-- ===== BANNER ===== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1158c7,100:58A6FF&text=Gabriel%20Lucas%20Barbosa&fontColor=ffffff&fontSize=34&fontAlignY=36&section=header" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1158c7,100:58A6FF&text=Gabriel%20Lucas%20Barbosa&fontColor=ffffff&fontSize=34&fontAlignY=36&section=header" alt="banner com onda em gradiente azul e o nome Gabriel Lucas Barbosa" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:1158c7&section=header" alt="banner com onda em gradiente azul" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFPR;inicia%C3%A7%C3%A3o+cient%C3%ADfica+em+IA+explic%C3%A1vel+(XAI)" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1800&color=1158C7&center=true&vCenter=true&width=600&height=45&lines=estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFPR;inicia%C3%A7%C3%A3o+cient%C3%ADfica+em+IA+explic%C3%A1vel+(XAI)" alt="texto animado alternando: estudante de Ciência da Computação na UFPR, iniciação científica em IA explicável (XAI)" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Gabriel+Lucas+Barbosa;estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFPR;inicia%C3%A7%C3%A3o+cient%C3%ADfica+em+IA+explic%C3%A1vel+(XAI)" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1800&color=1158C7&center=true&vCenter=true&width=600&height=45&lines=Gabriel+Lucas+Barbosa;estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFPR;inicia%C3%A7%C3%A3o+cient%C3%ADfica+em+IA+explic%C3%A1vel+(XAI)" alt="texto animado alternando: Gabriel Lucas Barbosa, estudante de Ciência da Computação na UFPR, iniciação científica em IA explicável (XAI)" />
 </picture>
 
 <!-- ===== SOBRE MIM ===== -->
