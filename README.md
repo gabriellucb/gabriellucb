@@ -70,17 +70,14 @@ Fui monitor de Fundamentos de Programação (CI182/CI240) e mantenho o material 
 
 <a href="https://gabriellb.com.br"><img src="https://img.shields.io/badge/site-58A6FF?style=for-the-badge&labelColor=0d1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iMTIiIHJ4PSI0IiByeT0iOSIvPjxwYXRoIGQ9Ik0zLjUgOWgxN00zLjUgMTVoMTciLz48L3N2Zz4%3D" alt="badge do site gabriellb.com.br" /></a>&nbsp;
 <a href="mailto:gabriellucb26@gmail.com"><img src="https://img.shields.io/badge/email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="badge de e-mail" /></a>&nbsp;
-<a href="https://linkedin.com/in/gabriellucb"><img src="https://img.shields.io/badge/linkedin-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="badge do LinkedIn" /></a>&nbsp;
+<a href="https://linkedin.com/in/gabriellucb"><img src="https://img.shields.io/badge/linkedin-58A6FF?style=for-the-badge&labelColor=0d1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="badge do LinkedIn" /></a>&nbsp;
 <a href="https://github.com/gabriellucb"><img src="https://img.shields.io/badge/github-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="badge do GitHub" /></a>&nbsp;
 <a href="https://instagram.com/gabslb._"><img src="https://img.shields.io/badge/instagram-58A6FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="badge do Instagram" /></a>&nbsp;
 <a href="https://github.com/gabriellucb/max"><img src="https://img.shields.io/badge/max-58A6FF?style=for-the-badge&labelColor=0d1117&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxlbGxpcHNlIGN4PSI1IiBjeT0iMTAiIHJ4PSIyIiByeT0iMi43Ii8%2BPGVsbGlwc2UgY3g9IjkuNyIgY3k9IjYuNSIgcng9IjIuMSIgcnk9IjIuOSIvPjxlbGxpcHNlIGN4PSIxNC45IiBjeT0iNi41IiByeD0iMi4xIiByeT0iMi45Ii8%2BPGVsbGlwc2UgY3g9IjE5LjQiIGN5PSIxMCIgcng9IjIiIHJ5PSIyLjciLz48cGF0aCBkPSJNMTIuMyAxMS4yYy0zLjIgMC02LjIgMi44LTYuMiA1LjcgMCAxLjkgMS41IDMuMyAzLjQgMy4zIDEgMCAxLjktLjUgMi44LS41czEuOC41IDIuOC41YzEuOSAwIDMuNC0xLjQgMy40LTMuMyAwLTIuOS0zLTUuNy02LjItNS43eiIvPjwvc3ZnPg%3D%3D" alt="badge do Max" /></a>
 
 <!-- ===== FOOTER ===== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1158c7,100:0d1117&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:79c0ff,100:1158c7&section=footer" loading="lazy" alt="banner de rodapé com onda em gradiente azul" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1158c7,100:0d1117&section=footer" alt="banner de rodapé com onda em gradiente azul" />
 
 </div>
 
