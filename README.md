@@ -7,8 +7,8 @@
 <!-- ===== BANNER ===== -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1158c7&text=Gabriel%20Lucas%20Barbosa&fontColor=58A6FF&fontSize=34&fontAlignY=36&animation=fadeIn&section=header" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1158c7,100:79c0ff&text=Gabriel%20Lucas%20Barbosa&fontColor=ffffff&fontSize=34&fontAlignY=36&animation=fadeIn&section=header" alt="banner com onda em gradiente azul e o nome Gabriel Lucas Barbosa" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1158c7,100:58A6FF&text=Gabriel%20Lucas%20Barbosa&fontColor=ffffff&fontSize=34&fontAlignY=36&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1158c7,100:58A6FF&text=Gabriel%20Lucas%20Barbosa&fontColor=ffffff&fontSize=34&fontAlignY=36&section=header" alt="banner com onda em gradiente azul e o nome Gabriel Lucas Barbosa" />
 </picture>
 
 <picture>
